@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "899023143766",
+    "firebase_url": "https://pizzago-e3eae-default-rtdb.firebaseio.com",
+    "project_id": "pizzago-e3eae",
+    "storage_bucket": "pizzago-e3eae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899023143766:android:480f9910c82fd208824cf7",
+        "android_client_info": {
+          "package_name": "com.example.pizzago"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaKVf2G0hREBGuCwIBlOKhdBFoZzf3AdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899023143766:android:d087b6b4198a0fde824cf7",
+        "android_client_info": {
+          "package_name": "com.example.pizzago1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaKVf2G0hREBGuCwIBlOKhdBFoZzf3AdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
